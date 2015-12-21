@@ -1,6 +1,3 @@
-//Header file for use in .l and .y files
-
-
 struct symbol{
 	char *var_name;
 	int entry;

@@ -1,5 +1,3 @@
-//This file to be compiled with yacc and -d option
-
 %{
 #include<stdio.h>
 #include<string.h>

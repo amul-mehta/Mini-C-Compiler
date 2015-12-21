@@ -1,7 +1,3 @@
-// Lex File of The compiler
-
-
-
 %{
 #include<stdlib.h>
 #include<malloc.h>
